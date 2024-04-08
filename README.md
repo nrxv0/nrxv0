@@ -3,7 +3,7 @@
 <div align="center">
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rye2x&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nrxv0&theme=midnight-purple)](https://git.io/streak-stats)
 
 
 
