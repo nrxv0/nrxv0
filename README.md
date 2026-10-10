@@ -24,7 +24,7 @@ My background combines network security, threat detection, and security monitori
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,figma" alt="HTML, CSS, React, Node.js, Express, MongoDB, Figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,nodejs,figma" alt="HTML, CSS, React, JavaScript, TypeScript, Node.js, Figma" />
 </p>
 
 ### Cybersecurity & Tools
@@ -48,8 +48,6 @@ Personal projects focused on responsive interfaces, modern frontend development,
 
 🔹 **Cybersecurity Projects**  
 Hands-on experiments and tools exploring network security, threat analysis, and defensive security techniques.
-
-Explore my repositories for source code, documentation, and project updates.
 
 ---
 
