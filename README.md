@@ -1,44 +1,83 @@
-<h1>Hi 👋, I'm Houda</h1>
-<h3>A frontend developer, and Cyber security enthusiast from Algeria</h3>
-<div align="center">
-</div>
+# Hi there, I'm Houda 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nrxv0&theme=midnight-purple)](https://git.io/streak-stats)
+### Cybersecurity Engineer | Web Developer | Security Research Enthusiast
 
+I'm a recent **Cybersecurity Engineering and Master's graduate from ESTIN, Algeria**, interested in building secure, practical, and user-friendly technology.
 
+My background combines network security, threat detection, and security monitoring with a growing focus on modern web development. I enjoy learning by building projects, exploring new technologies, and turning ideas into working solutions.
 
+- 🔐 **Cybersecurity:** Network traffic analysis, threat detection, SIEM, and incident response
+- 💻 **Web Development:** React, JavaScript, TypeScript, and modern frontend development
+- 🛠️ **Currently working on:** Personal projects, improving my development skills, and building practical security tools
+- 🌱 **Currently learning:** TypeScript, advanced React, and modern web development practices
+- 🎯 **Interests:** Network security, SOC operations, threat detection, and secure application development
+- 📍 Algeria | Open to opportunities and collaboration
 
-- 🔭 I’m currently learning **MERN STACK**
+---
 
-- 📫 How to reach me **n_boutemine@estin.dz**
+## 🧰 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nourelhouda-boutemine-2a9879246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nourelhouda-boutemine-2a9879246" height="30" width="40" /></a>
-<a href="https://instagram.com/__nrye.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__nrye.x" height="30" width="40" /></a>
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,java" alt="Python, JavaScript, TypeScript, C, Java" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,figma" alt="HTML, CSS, React, Node.js, Express, MongoDB, Figma" />
+</p>
 
+### Cybersecurity & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,mysql,vscode" alt="Linux, Bash, Git, GitHub, MySQL, VS Code" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nrxv0&show_icons=true&theme=midnight-purple"/></p>
+- **Security & Monitoring:** Wazuh, Zeek, MITRE ATT&CK
+- **Security Testing:** Metasploit, Burp Suite
+- **Other:** Network traffic analysis, Python scripting, security monitoring
 
-![](https://komarev.com/ghpvc/?username=your-github-rye2x&color=blueviolet)
+---
 
+## 🚀 Featured Projects
 
+🔹 **ZeekDetect — Network-Based Malware Detection**  
+A training-free behavioral network intrusion detection approach integrated with Wazuh SIEM to support security monitoring and threat detection.
 
-<!--
-**nrxv0/nrxv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Web Development Projects**  
+Personal projects focused on responsive interfaces, modern frontend development, and practical web applications.
 
-Here are some ideas to get you started:
+🔹 **Cybersecurity Projects**  
+Hands-on experiments and tools exploring network security, threat analysis, and defensive security techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Explore my repositories for source code, documentation, and project updates.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nrxv0&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrxv0&layout=compact&theme=midnight-purple&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nrxv0&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/nourelhouda-boutemine-2a9879246">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:n_boutemine@estin.dz">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/nrxv0">
+    <img src="https://img.shields.io/badge/GitHub-nrxv0-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+*Always learning, building, and exploring what's next.* 🚀
