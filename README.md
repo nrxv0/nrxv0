@@ -24,7 +24,7 @@ My background combines network security, threat detection, and security monitori
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,nodejs,figma" alt="HTML, CSS, React, JavaScript, TypeScript, Node.js, Figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,figma" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Node.js, Figma" />
 </p>
 
 ### Cybersecurity & Tools
